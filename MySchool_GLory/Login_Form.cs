@@ -60,6 +60,8 @@ namespace MySchool_GLory
                 }
                 sqlDataReader.Close();
             }
+
+            Console.WriteLine("Coming home");
             
             else
             {
